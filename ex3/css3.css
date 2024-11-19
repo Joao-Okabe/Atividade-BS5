@@ -1,0 +1,31 @@
+.header3{
+    background-color: blueviolet;
+    height: 125px;
+    padding: 20px;
+}
+
+.nav3{
+    background-color: rgb(183, 122, 239);
+    height: 100px;
+    padding: 20px;
+}
+
+.section3{
+    background-color: rgb(216, 186, 245);
+    height: 604px;
+    padding: 20px;
+}
+
+.aside{
+    background-color: rgb(216, 186, 245);
+    height: 604px;
+    padding: 20px;
+    outline: 1px solid blueviolet;
+}
+
+
+.footer3{
+    background-color: blueviolet;
+    height: 125px;
+    padding: 20px;  
+}
