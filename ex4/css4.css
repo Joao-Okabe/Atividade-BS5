@@ -1,0 +1,30 @@
+.div1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    float: inline-end;
+}
+
+.div2{
+    background-color: red;
+    height: 100px;
+    width: 100px;   
+}
+
+.div3{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    bottom: 0px;
+    right: 0%;
+    position: absolute;
+}
+
+.div4{
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    bottom: 0%;
+    left: 0%;
+    position: absolute;
+}
